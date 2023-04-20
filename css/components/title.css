@@ -5,5 +5,11 @@
         text-shadow: 4px 4px 0px #000;
         margin-bottom: 28px ;
         
-   
+}
+
+.title.-second{
+        color: yellow;
+        text-shadow: none;
+        text-align: center;
+
 }
